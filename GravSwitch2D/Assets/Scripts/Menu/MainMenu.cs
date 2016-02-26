@@ -134,10 +134,12 @@ public class MainMenu : MonoBehaviour {
 
             if(buttonXPos > m_MaxDistanceFromCenter)
             {
+                /*
                //make button small
                 Vector3 newScale =  
 
                 m_Buttons[i].transform.localScale =
+                 */
             }
             else
             {
