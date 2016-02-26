@@ -1,0 +1,3960 @@
+fileFormatVersion: 2
+guid: 2e34e00a9e5968c4383bbfec05cb5198
+timeCreated: 1427428078
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sonic-3_0
+    21300002: sonic-3_1
+    21300004: sonic-3_2
+    21300006: sonic-3_3
+    21300008: sonic-3_4
+    21300010: sonic-3_5
+    21300012: sonic-3_6
+    21300014: sonic-3_7
+    21300016: sonic-3_8
+    21300018: sonic-3_9
+    21300020: sonic-3_10
+    21300022: sonic-3_11
+    21300024: sonic-3_12
+    21300026: sonic-3_13
+    21300028: sonic-3_14
+    21300030: sonic-3_15
+    21300032: sonic-3_16
+    21300034: sonic-3_17
+    21300036: sonic-3_18
+    21300038: sonic-3_19
+    21300040: sonic-3_20
+    21300042: sonic-3_21
+    21300044: sonic-3_22
+    21300046: sonic-3_23
+    21300048: sonic-3_24
+    21300050: sonic-3_25
+    21300052: sonic-3_26
+    21300054: sonic-3_27
+    21300056: sonic-3_28
+    21300058: sonic-3_29
+    21300060: sonic-3_30
+    21300062: sonic-3_31
+    21300064: sonic-3_32
+    21300066: sonic-3_33
+    21300068: sonic-3_34
+    21300070: sonic-3_35
+    21300072: sonic-3_36
+    21300074: sonic-3_37
+    21300076: sonic-3_38
+    21300078: sonic-3_39
+    21300080: sonic-3_40
+    21300082: sonic-3_41
+    21300084: sonic-3_42
+    21300086: sonic-3_43
+    21300088: sonic-3_44
+    21300090: sonic-3_45
+    21300092: sonic-3_46
+    21300094: sonic-3_47
+    21300096: sonic-3_48
+    21300098: sonic-3_49
+    21300100: sonic-3_50
+    21300102: sonic-3_51
+    21300104: sonic-3_52
+    21300106: sonic-3_53
+    21300108: sonic-3_54
+    21300110: sonic-3_55
+    21300112: sonic-3_56
+    21300114: sonic-3_57
+    21300116: sonic-3_58
+    21300118: sonic-3_59
+    21300120: sonic-3_60
+    21300122: sonic-3_61
+    21300124: sonic-3_62
+    21300126: sonic-3_63
+    21300128: sonic-3_64
+    21300130: sonic-3_65
+    21300132: sonic-3_66
+    21300134: sonic-3_67
+    21300136: sonic-3_68
+    21300138: sonic-3_69
+    21300140: sonic-3_70
+    21300142: sonic-3_71
+    21300144: sonic-3_72
+    21300146: sonic-3_73
+    21300148: sonic-3_74
+    21300150: sonic-3_75
+    21300152: sonic-3_76
+    21300154: sonic-3_77
+    21300156: sonic-3_78
+    21300158: sonic-3_79
+    21300160: sonic-3_80
+    21300162: sonic-3_81
+    21300164: sonic-3_82
+    21300166: sonic-3_83
+    21300168: sonic-3_84
+    21300170: sonic-3_85
+    21300172: sonic-3_86
+    21300174: sonic-3_87
+    21300176: sonic-3_88
+    21300178: sonic-3_89
+    21300180: sonic-3_90
+    21300182: sonic-3_91
+    21300184: sonic-3_92
+    21300186: sonic-3_93
+    21300188: sonic-3_94
+    21300190: sonic-3_95
+    21300192: sonic-3_96
+    21300194: sonic-3_97
+    21300196: sonic-3_98
+    21300198: sonic-3_99
+    21300200: sonic-3_100
+    21300202: sonic-3_101
+    21300204: sonic-3_102
+    21300206: sonic-3_103
+    21300208: sonic-3_104
+    21300210: sonic-3_105
+    21300212: sonic-3_106
+    21300214: sonic-3_107
+    21300216: sonic-3_108
+    21300218: sonic-3_109
+    21300220: sonic-3_110
+    21300222: sonic-3_111
+    21300224: sonic-3_112
+    21300226: sonic-3_113
+    21300228: sonic-3_114
+    21300230: sonic-3_115
+    21300232: sonic-3_116
+    21300234: sonic-3_117
+    21300236: sonic-3_118
+    21300238: sonic-3_119
+    21300240: sonic-3_120
+    21300242: sonic-3_121
+    21300244: sonic-3_122
+    21300246: sonic-3_123
+    21300248: sonic-3_124
+    21300250: sonic-3_125
+    21300252: sonic-3_126
+    21300254: sonic-3_127
+    21300256: sonic-3_128
+    21300258: sonic-3_129
+    21300260: sonic-3_130
+    21300262: sonic-3_131
+    21300264: sonic-3_132
+    21300266: sonic-3_133
+    21300268: sonic-3_134
+    21300270: sonic-3_135
+    21300272: sonic-3_136
+    21300274: sonic-3_137
+    21300276: sonic-3_138
+    21300278: sonic-3_139
+    21300280: sonic-3_140
+    21300282: sonic-3_141
+    21300284: sonic-3_142
+    21300286: sonic-3_143
+    21300288: sonic-3_144
+    21300290: sonic-3_145
+    21300292: sonic-3_146
+    21300294: sonic-3_147
+    21300296: sonic-3_148
+    21300298: sonic-3_149
+    21300300: sonic-3_150
+    21300302: sonic-3_151
+    21300304: sonic-3_152
+    21300306: sonic-3_153
+    21300308: sonic-3_154
+    21300310: sonic-3_155
+    21300312: sonic-3_156
+    21300314: sonic-3_157
+    21300316: sonic-3_158
+    21300318: sonic-3_159
+    21300320: sonic-3_160
+    21300322: sonic-3_161
+    21300324: sonic-3_162
+    21300326: sonic-3_163
+    21300328: sonic-3_164
+    21300330: sonic-3_165
+    21300332: sonic-3_166
+    21300334: sonic-3_167
+    21300336: sonic-3_168
+    21300338: sonic-3_169
+    21300340: sonic-3_170
+    21300342: sonic-3_171
+    21300344: sonic-3_172
+    21300346: sonic-3_173
+    21300348: sonic-3_174
+    21300350: sonic-3_175
+    21300352: sonic-3_176
+    21300354: sonic-3_177
+    21300356: sonic-3_178
+    21300358: sonic-3_179
+    21300360: sonic-3_180
+    21300362: sonic-3_181
+    21300364: sonic-3_182
+    21300366: sonic-3_183
+    21300368: sonic-3_184
+    21300370: sonic-3_185
+    21300372: sonic-3_186
+    21300374: sonic-3_187
+    21300376: sonic-3_188
+    21300378: sonic-3_189
+    21300380: sonic-3_190
+    21300382: sonic-3_191
+    21300384: sonic-3_192
+    21300386: sonic-3_193
+    21300388: sonic-3_194
+    21300390: sonic-3_195
+    21300392: sonic-3_196
+    21300394: sonic-3_197
+    21300396: sonic-3_198
+    21300398: sonic-3_199
+    21300400: sonic-3_200
+    21300402: sonic-3_201
+    21300404: sonic-3_202
+    21300406: sonic-3_203
+    21300408: sonic-3_204
+    21300410: sonic-3_205
+    21300412: sonic-3_206
+    21300414: sonic-3_207
+    21300416: sonic-3_208
+    21300418: sonic-3_209
+    21300420: sonic-3_210
+    21300422: sonic-3_211
+    21300424: sonic-3_212
+    21300426: sonic-3_213
+    21300428: sonic-3_214
+    21300430: sonic-3_215
+    21300432: sonic-3_216
+    21300434: sonic-3_217
+    21300436: sonic-3_218
+    21300438: sonic-3_219
+    21300440: sonic-3_220
+    21300442: sonic-3_221
+    21300444: sonic-3_222
+    21300446: sonic-3_223
+    21300448: sonic-3_224
+    21300450: sonic-3_225
+    21300452: sonic-3_226
+    21300454: sonic-3_227
+    21300456: sonic-3_228
+    21300458: sonic-3_229
+    21300460: sonic-3_230
+    21300462: sonic-3_231
+    21300464: sonic-3_232
+    21300466: sonic-3_233
+    21300468: sonic-3_234
+    21300470: sonic-3_235
+    21300472: sonic-3_236
+    21300474: sonic-3_237
+    21300476: sonic-3_238
+    21300478: sonic-3_239
+    21300480: sonic-3_240
+    21300482: sonic-3_241
+    21300484: sonic-3_242
+    21300486: sonic-3_243
+    21300488: sonic-3_244
+    21300490: sonic-3_245
+    21300492: sonic-3_246
+    21300494: sonic-3_247
+    21300496: sonic-3_248
+    21300498: sonic-3_249
+    21300500: sonic-3_250
+    21300502: sonic-3_251
+    21300504: sonic-3_252
+    21300506: sonic-3_253
+    21300508: sonic-3_254
+    21300510: sonic-3_255
+    21300512: sonic-3_256
+    21300514: sonic-3_257
+    21300516: sonic-3_258
+    21300518: sonic-3_259
+    21300520: sonic-3_260
+    21300522: sonic-3_261
+    21300524: sonic-3_262
+    21300526: sonic-3_263
+    21300528: sonic-3_264
+    21300530: sonic-3_265
+    21300532: sonic-3_266
+    21300534: sonic-3_267
+    21300536: sonic-3_268
+    21300538: sonic-3_269
+    21300540: sonic-3_270
+    21300542: sonic-3_271
+    21300544: sonic-3_272
+    21300546: sonic-3_273
+    21300548: sonic-3_274
+    21300550: sonic-3_275
+    21300552: sonic-3_276
+    21300554: sonic-3_277
+    21300556: sonic-3_278
+    21300558: sonic-3_279
+    21300560: sonic-3_280
+    21300562: sonic-3_281
+    21300564: sonic-3_282
+    21300566: sonic-3_283
+    21300568: sonic-3_284
+    21300570: sonic-3_285
+    21300572: sonic-3_286
+    21300574: sonic-3_287
+    21300576: sonic-3_288
+    21300578: sonic-3_289
+    21300580: sonic-3_290
+    21300582: sonic-3_291
+    21300584: sonic-3_292
+    21300586: sonic-3_293
+    21300588: sonic-3_294
+    21300590: sonic-3_295
+    21300592: sonic-3_296
+    21300594: sonic-3_297
+    21300596: sonic-3_298
+    21300598: sonic-3_299
+    21300600: sonic-3_300
+    21300602: sonic-3_301
+    21300604: sonic-3_302
+    21300606: sonic-3_303
+    21300608: sonic-3_304
+    21300610: sonic-3_305
+    21300612: sonic-3_306
+    21300614: sonic-3_307
+    21300616: sonic-3_308
+    21300618: sonic-3_309
+    21300620: sonic-3_310
+    21300622: sonic-3_311
+    21300624: sonic-3_312
+    21300626: sonic-3_313
+    21300628: sonic-3_314
+    21300630: sonic-3_315
+    21300632: sonic-3_316
+    21300634: sonic-3_317
+    21300636: sonic-3_318
+    21300638: sonic-3_319
+    21300640: sonic-3_320
+    21300642: sonic-3_321
+    21300644: sonic-3_322
+    21300646: sonic-3_323
+    21300648: sonic-3_324
+    21300650: sonic-3_325
+    21300652: sonic-3_326
+    21300654: sonic-3_327
+    21300656: sonic-3_328
+    21300658: sonic-3_329
+    21300660: sonic-3_330
+    21300662: sonic-3_331
+    21300664: sonic-3_332
+    21300666: sonic-3_333
+    21300668: sonic-3_334
+    21300670: sonic-3_335
+    21300672: sonic-3_336
+    21300674: sonic-3_337
+    21300676: sonic-3_338
+    21300678: sonic-3_339
+    21300680: sonic-3_340
+    21300682: sonic-3_341
+    21300684: sonic-3_342
+    21300686: sonic-3_343
+    21300688: sonic-3_344
+    21300690: sonic-3_345
+    21300692: sonic-3_346
+    21300694: sonic-3_347
+    21300696: sonic-3_348
+    21300698: sonic-3_349
+    21300700: sonic-3_350
+    21300702: sonic-3_351
+    21300704: sonic-3_352
+    21300706: sonic-3_353
+    21300708: sonic-3_354
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 12
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sonic-3_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 829
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 830
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 830
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 830
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 829
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 828
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 828
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 829
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 829
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 829
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 830
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 823
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_12
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 824
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 821
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_14
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 827
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_15
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 824
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_16
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 824
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_17
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 853
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_18
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 823
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_19
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 825
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_20
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 825
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_21
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 824
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_22
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 823
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_23
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 822
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_24
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 822
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_25
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 824
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_26
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 826
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_27
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 826
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 782
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 782
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 787
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_31
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 786
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 785
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_33
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 784
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_34
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 781
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_35
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 780
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_36
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 780
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_37
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 782
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_38
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 784
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_39
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 784
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_40
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 784
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_41
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 777
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_42
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 778
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_43
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 779
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_44
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 776
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_45
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 777
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_46
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 774
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_47
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 772
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_48
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 773
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_49
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 773
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_50
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 741
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_51
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 737
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_52
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 739
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_53
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 739
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_54
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 736
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 726
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_56
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 729
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_57
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 733
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_58
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 733
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_59
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 733
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_60
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 732
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_61
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 737
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_62
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 737
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_63
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 736
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_64
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 735
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_65
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 733
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_66
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 731
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_67
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 681
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_68
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 681
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_69
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 681
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_70
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 681
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_71
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 681
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_72
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 682
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_73
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 682
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_74
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 680
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_75
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 681
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_76
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 681
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_77
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 676
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_78
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 675
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_79
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 677
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_80
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 679
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_81
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 679
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_82
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 680
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_83
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 679
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_84
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 632
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_85
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 633
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_86
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 627
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 624
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_88
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 626
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_89
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 629
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_90
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 629
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_91
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 635
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_92
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 625
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_93
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 625
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_94
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 625
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_95
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 627
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_96
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 628
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_97
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 628
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_98
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 627
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_99
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 629
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_100
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 628
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_101
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 626
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_102
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 626
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_103
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 584
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_104
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 583
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 581
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_106
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 580
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_107
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 581
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_108
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 583
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_109
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 584
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_110
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 583
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_111
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 576
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_112
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 578
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_113
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 580
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_114
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 581
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_115
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 583
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_116
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 582
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_117
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 583
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_118
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 582
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_119
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 581
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_120
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 585
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_121
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 579
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_122
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 576
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_123
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 576
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_124
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 575
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_125
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 530
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_126
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 530
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_127
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 527
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_128
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 528
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_129
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 528
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_130
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 528
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_131
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 528
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_132
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 528
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_133
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 528
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_134
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 530
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_135
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 530
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_136
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 531
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_137
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 532
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_138
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 533
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_139
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 534
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_140
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 533
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_141
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 535
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_142
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 534
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_143
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 533
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_144
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 534
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_145
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 534
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_146
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 533
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_147
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 535
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_148
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 536
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_149
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 536
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_150
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 534
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_151
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 535
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_152
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 483
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_153
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 483
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_154
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 484
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_155
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 483
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_156
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 483
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_157
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 484
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_158
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 483
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_159
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 483
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_160
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 478
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_161
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 478
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_162
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 481
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_163
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 480
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_164
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 478
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_165
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 479
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_166
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 498
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_167
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 482
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_168
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 484
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_169
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 482
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_170
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 482
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_171
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 485
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_172
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 483
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_173
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 481
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_174
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 483
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_175
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 442
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_176
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 443
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_177
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 443
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_178
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 444
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_179
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 442
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_180
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 444
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_181
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 446
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_182
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 442
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_183
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 437
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_184
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 438
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_185
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 440
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_186
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 436
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_187
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 433
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_188
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 436
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_189
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 436
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_190
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 436
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_191
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 436
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_192
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 436
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_193
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 437
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_194
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 437
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_195
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 436
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_196
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 436
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_197
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 436
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_198
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 397
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_199
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 396
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_200
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 391
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_201
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 392
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_202
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 392
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_203
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 391
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_204
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 391
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_205
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 392
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_206
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 395
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_207
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 394
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_208
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 394
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_209
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 396
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_210
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 396
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_211
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 396
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_212
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 396
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_213
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 397
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_214
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 397
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_215
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 396
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_216
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 397
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_217
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 397
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_218
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 399
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_219
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 405
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_220
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 405
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_221
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 350
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_222
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 346
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_223
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 345
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_224
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 344
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_225
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 344
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_226
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 344
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_227
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 345
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_228
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 346
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_229
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 348
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_230
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 348
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_231
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 347
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_232
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 347
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_233
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 345
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_234
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 342
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_235
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 343
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_236
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 345
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_237
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 345
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_238
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 348
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_239
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 344
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_240
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 378
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_241
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 345
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_242
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 346
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_243
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 348
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_244
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 348
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_245
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 302
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_246
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 299
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_247
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 298
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_248
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 301
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_249
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 301
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_250
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 301
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_251
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 301
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_252
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 301
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_253
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 302
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_254
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 302
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_255
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 302
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_256
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 282
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_257
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 283
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_258
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 289
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_259
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 292
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_260
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 298
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_261
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 298
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_262
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 298
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_263
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 284
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_264
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 284
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_265
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_266
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 256
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_267
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 255
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_268
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 269
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_269
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 290
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_270
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 281
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_271
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 265
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_272
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 276
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_273
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 266
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_274
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 266
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_275
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 266
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_276
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 266
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_277
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 266
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_278
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 266
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_279
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 266
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_280
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 202
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_281
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 202
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_282
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 206
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_283
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 204
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_284
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 206
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_285
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 206
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_286
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 199
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_287
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 199
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_288
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 206
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_289
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 206
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_290
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 198
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_291
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 198
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_292
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 201
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_293
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 204
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_294
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 204
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_295
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 202
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_296
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 199
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_297
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 200
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_298
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 146
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_299
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 144
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_300
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 146
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_301
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 146
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_302
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 151
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_303
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 151
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_304
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 143
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_305
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 144
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_306
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 148
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_307
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 144
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_308
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 140
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_309
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 137
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_310
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 139
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_311
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 140
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_312
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 141
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_313
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 143
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_314
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 142
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_315
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 145
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_316
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 146
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_317
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 95
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_318
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 93
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_319
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 93
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_320
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 96
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_321
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 96
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_322
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 91
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_323
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 90
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_324
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 98
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_325
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 95
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_326
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 92
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_327
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 98
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_328
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 100
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_329
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 98
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_330
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 97
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_331
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 97
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_332
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 97
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_333
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 97
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_334
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 0
+        width: 123
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_335
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 44
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_336
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 36
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_337
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 74
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_338
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 58
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_339
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 35
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_340
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 74
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_341
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 35
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_342
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 36
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_343
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 36
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_344
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 49
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_345
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 47
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_346
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 43
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_347
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 44
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_348
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 42
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_349
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 40
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_350
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 35
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_351
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 34
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_352
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 35
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_353
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 55
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sonic-3_354
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 53
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
